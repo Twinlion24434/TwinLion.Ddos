@@ -3,7 +3,6 @@ import os
 import socket
 import threading
 import time
-import fade
 from colorama import Fore, Style
 def ddos():
     os.system("clear")
@@ -28,7 +27,7 @@ def ddos():
             continue;
         else:
             break;
-    print(f"performing Ddos on {target} on PORT {port} using FAKE IP {fake} ")
+    print("performing Ddos on {} on PORT {} using FAKE IP {} ").format(target,port,fake))
     print(Fore.YELLOW + Style.BRIGHT + "[INFO!]" + Fore.WHITE + " if the above information is incorrect,you can restart the script and again enter the details correctly!!")
    # print(Fore.YELLOW + Style.BRIGHT + "[INFO!]" + Fore.WHITE + " Press CTRL + C and press Enter to Exit!")
     #print(Style.BRIGHT + Fore.YELLOW + "[INFO!]" + Fore.WHITE + "Press CTRL + C and press enter to exit!!")
