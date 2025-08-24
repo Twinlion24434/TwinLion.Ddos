@@ -8,7 +8,11 @@ buka aplikasi termux ketikan perintah dibawah ini :
 
 apt update && apt upgrade
 
-pkg install python python2 git
+pip install fade 
+
+pip3 install fade-text
+
+pkg install python3 git
 
 git clone https://github.com/Twinlion24434/TwinLion.Ddos.git
 
