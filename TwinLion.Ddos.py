@@ -3,7 +3,8 @@ import os
 import socket
 import threading
 import time
-from colorama import Fore, Style
+import fade
+from colorama import Fore, Style,fade
 def ddos():
     os.system("clear")
     print("press CTRL + C and press ENTER to exit !!!")
