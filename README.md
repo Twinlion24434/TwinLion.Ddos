@@ -12,13 +12,13 @@ pkg install python python2 git
 
 git clone https://github.com/Twinlion24434/TwinLion.Ddos.git
 
-cd Twinlion.Ddos
+cd TwinLion.Ddos
 
 ls
 
 python setup.py
 
-python Twinlion.Ddos.py
+python TwinLion.Ddos.py
 
 
 
