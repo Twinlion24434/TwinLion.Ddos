@@ -1,5 +1,5 @@
 Twinlion24434 ---->>Khanza
-
+___________________________
 
 DDOS (denial-of-service Attacks) adalah jenis serangan yang dilakukan dengan cara membanjiri lalu lintas jaringan internet pada server, sistem, atau jaringan.
 
@@ -9,12 +9,14 @@ apt update && apt upgrade
 
 pkg install python python2 git
 
+git clone https://github.com/Twinlion24434/TwinLion.Ddos.git
 
-
-cd Poisonous-Purple
+cd Twinlion.Ddos
 
 ls
 
 python setup.py
 
-python Poisonous-Purple.py
+python Twinlion.Ddos.py
+
+
