@@ -1,4 +1,5 @@
 Twinlion24434 ---->>Khanza
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ___________________________
 
 DDOS (denial-of-service Attacks) adalah jenis serangan yang dilakukan dengan cara membanjiri lalu lintas jaringan internet pada server, sistem, atau jaringan.
@@ -20,6 +21,6 @@ python setup.py
 python Twinlion.Ddos.py
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
